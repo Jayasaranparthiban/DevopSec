@@ -144,3 +144,5 @@ LOGOUT_REDIRECT_URL ='login'
 
 AUTH_USER_MODEL = 'fitness.CustomUser'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+#new branch
